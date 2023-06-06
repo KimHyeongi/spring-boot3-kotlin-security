@@ -11,7 +11,7 @@ Java to Kotlin
 
 ## 예제 :
 
-POST ] http://localhost:8080/api/v1/auth/register
+POST ] http://localhost:8888/api/v1/auth/register
 ```
 {
     "firstname" : "hahahah",
@@ -22,7 +22,7 @@ POST ] http://localhost:8080/api/v1/auth/register
 } 
 ```
 
-POST ] http://localhost:8080/api/v1/auth/authenticate
+POST ] http://localhost:8888/api/v1/auth/authenticate
 ```
 {
     "email" : "hahaha@hohoho.com",
